@@ -9,16 +9,8 @@
  * You're free to add application-wide styles to this file and they'll appear at the top of the
  * compiled file, but it's generally better to create a new file per style scope.
  *= require ../../../vendor/assets/css/designr-theme-cyan
- *= require ../../../vendor/assets/css/designr-theme-cyan2
- *= require ../../../vendor/assets/css/designr-theme-grass
- *= require ../../../vendor/assets/css/designr-theme-green
- *= require ../../../vendor/assets/css/designr-theme-orange
- *= require ../../../vendor/assets/css/designr-theme-pink
- *= require ../../../vendor/assets/css/designr-theme-purple
- *= require ../../../vendor/assets/css/designr-theme-red
  *= require ../../../vendor/assets/css/flexslider
  *= require ../../../vendor/assets/css/font-awesome.min
- *= require_tree ../../../vendor/assets/css/
  *= require_self
  *= require_tree .
  */
